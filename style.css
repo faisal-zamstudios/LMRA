@@ -1,0 +1,337 @@
+* {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+}
+
+.tbl-checklist tr td {
+    padding-top: 4px;
+    padding-bottom: 4px;
+    font-weight: 500;
+}
+
+.tbl-checklist thead tr td {
+    color: #B9B9B9;
+}
+
+.tbl-checklist tbody tr td {
+    color: #313131;
+}
+
+.tc-grey {
+    color: rgba(92, 87, 97, 0.5);
+}
+
+.fw-normal {
+    font-weight: normal;
+    color: #200E32;
+}
+
+.fw-400 {
+    font-weight: 400;
+}
+
+.fw-500 {
+    font-weight: 500;
+}
+
+.fs-10 {
+    font-size: 10px !important;
+    line-height: 12px !important;
+}
+
+.fs-11 {
+    font-size: 11px !important;
+    line-height: 13px !important;
+}
+
+.fs-12 {
+    font-size: 12px !important;
+    line-height: 14px !important;
+}
+
+.fs-13 {
+    font-size: 13px !important;
+    line-height: 15px !important;
+}
+
+.fs-14 {
+    font-size: 14px !important;
+    line-height: 16px !important;
+}
+
+.fs-15 {
+    font-size: 15px !important;
+    line-height: 17px !important;
+}
+
+.fs-16 {
+    font-size: 16px !important;
+    line-height: 18px !important;
+}
+
+.fs-17 {
+    font-size: 17px !important;
+    line-height: 19px !important;
+}
+
+.fs-18 {
+    font-size: 18px;
+    line-height: 20px;
+}
+
+.fs-19 {
+    font-size: 19px;
+    line-height: 21px;
+}
+
+.fs-20 {
+    font-size: 20px;
+    line-height: 22px;
+}
+
+.fs-22 {
+    font-size: 22px;
+    line-height: 24px;
+}
+
+.fs-27 {
+    font-size: 27px;
+    line-height: 29px;
+}
+
+@media screen and (max-width: 1450px) {
+    
+    .fs-10 {
+        font-size: 9px !important;
+        line-height: 11px !important;
+    }
+
+    .mr-28 {
+        margin-right: 22px;
+    }
+    
+    .fs-11 {
+        font-size: 10px !important;
+        line-height: 11.5px !important;
+    }
+    
+    .fs-12 {
+        font-size: 11px !important;
+        line-height: 13px !important;
+    }
+    
+    .fs-13 {
+        font-size: 12px !important;
+        line-height: 14px !important;
+    }
+
+    .fs-14 {
+        font-size: 13px !important;
+        line-height: 15px !important;
+    }
+    
+    .fs-15 {
+        font-size: 14px !important;
+        line-height: 16px !important;
+    }
+
+    .fs-16 {
+        font-size: 15px !important;
+        line-height: 17px !important;
+    }
+    
+    .fs-17 {
+        font-size: 16px;
+        line-height: 18px;
+    }
+
+    .fs-18 {
+        font-size: 17px;
+        line-height: 19px;
+    }
+    
+    .fs-19 {
+        font-size: 18px;
+        line-height: 20px;
+    }
+
+    .fs-20 {
+        font-size: 19px;
+        line-height: 20px;
+    }
+
+    .fs-22 {
+        font-size: 21px;
+        line-height: 23px;
+    }
+    
+    .fs-27 {
+        font-size: 25px;
+        line-height: 27px;
+    }
+
+}
+
+@media screen and (max-width: 1280px) {
+
+    .fs-10 {
+        font-size: 8px !important;
+        line-height: 10px !important;
+    }
+
+    .fs-11 {
+        font-size: 9px !important;
+        line-height: 11px !important;
+    }
+    
+    .fs-12 {
+        font-size: 10px !important;
+        line-height: 12px !important;
+    }    
+
+    .fs-13 {
+        font-size: 11px !important;
+        line-height: 13px !important;
+    }
+
+    .fs-14 {
+        font-size: 12px !important;
+        line-height: 14px !important;
+    }
+    
+    .fs-15 {
+        font-size: 13px !important;
+        line-height: 15px !important;
+    }
+    
+    .fs-16 {
+        font-size: 14px !important;
+        line-height: 16px !important;
+    }
+
+    .fs-17 {
+        font-size: 14px !important;
+        line-height: 16px !important;
+    }
+
+    .fs-18 {
+        font-size: 16px !important;
+        line-height: 18px !important;
+    }
+
+    .fs-19 {
+        font-size: 17px;
+        line-height: 19px;
+    }
+
+    .fs-20 {
+        font-size: 18px;
+        line-height: 20px;
+    }
+
+    .fs-22 {
+        font-size: 20px;
+        line-height: 22px;
+    }
+    
+    .fs-27 {
+        font-size: 24px;
+        line-height: 26px;
+    }
+
+}
+
+
+
+@media screen and (max-width: 1150px) {
+    .set-mx-auto .set-margin {
+        margin-left: auto !important;
+        margin-right: auto !important;
+    }
+
+    .set-w-100 {
+        width: 100% !important;
+    }
+    
+    .set-w-50 {
+        width: 48% !important;
+    }
+}
+
+@media screen and (max-width: 890px) {
+
+    .fs-10 {
+        font-size: 8px !important;
+        line-height: 10px !important;
+    }
+    
+    .fs-11 {
+        font-size: 8px !important;
+        line-height: 10px !important;
+    }
+    
+    .fs-12 {
+        font-size: 9px !important;
+        line-height: 11px !important;
+    }    
+
+    .fs-13 {
+        font-size: 9px !important;
+        line-height: 11px !important;
+    }
+
+    .fs-14 {
+        font-size: 10px !important;
+        line-height: 12px !important;
+    }
+    
+    .fs-15 {
+        font-size: 11px !important;
+        line-height: 13px !important;
+    }
+    
+    .fs-16 {
+        font-size: 12px !important;
+        line-height: 14px !important;
+    }
+
+    .fs-17 {
+        font-size: 13px !important;
+        line-height: 15px !important;
+    }
+
+    .fs-18 {
+        font-size: 14px !important;
+        line-height: 16px !important;
+    }
+
+    .fs-19 {
+        font-size: 15px;
+        line-height: 17px;
+    }
+
+    .fs-20 {
+        font-size: 16px;
+        line-height: 18px;
+    }
+
+    .fs-22 {
+        font-size: 18px;
+        line-height: 20px;
+    }
+    
+    .fs-27 {
+        font-size: 19px;
+        line-height: 21px;
+    }
+
+}
+
+
+
+
+
+
+
+
+
