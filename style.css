@@ -256,6 +256,14 @@
     .set-w-50 {
         width: 48% !important;
     }
+
+    .set-mr-0 {
+        margin-right: 0px !important;
+    }
+    
+    .set-ml-0 {
+        margin-left: 0px !important;
+    }
 }
 
 @media screen and (max-width: 890px) {
